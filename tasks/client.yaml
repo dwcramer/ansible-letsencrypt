@@ -7,7 +7,6 @@
     - libffi-dev
     - python-dev
     - git
-    - python-pip
     - python-virtualenv
     - dialog
     - libaugeas0
